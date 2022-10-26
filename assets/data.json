@@ -1,0 +1,23 @@
+{
+  "id": 32929,
+  "listing_code": "032929",
+  "is_rent": true,
+  "is_sale": true,
+  "is_hot": false,
+  "sale_list_price": 300000,
+  "rent_list_price": 34300,
+  "sale_list_price_changed": 0,
+  "rent_list_price_changed": 0,
+  "sale_list_price_per_square": 407.60869565217394,
+  "rent_list_price_per_square": 46.60326086956522,
+  "code": "038613",
+  "property_id": "038613",
+  "listing_age": 16,
+  "number_of_book": 7,
+  "land_area": 736,
+  "record_type": "Land",
+  "record_type_dynamic_name": "Land",
+  "property_type": "Agricultural Land",
+  "property_type_dynamic_name": "Agricultural Land",
+  "latitude": "11.5"
+}
